@@ -1,0 +1,158 @@
+{
+	"formatVersion": 1,
+	"appVersion": "0.59.3",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "2spP5Oh2UNOA",
+			"notePath": [
+				"2spP5Oh2UNOA"
+			],
+			"title": "Motor Camping V2",
+			"notePosition": 50,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "nOahDyAH1Wgb",
+					"isInheritable": false,
+					"position": 2
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "gL9zMD4mr8Yj",
+					"isInheritable": false,
+					"position": 3
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "POkbJbvAcdBg",
+					"isInheritable": false,
+					"position": 5
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "3ZGckkIoMLh6",
+					"isInheritable": false,
+					"position": 7
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "T9vAGliHYtoR",
+					"isInheritable": false,
+					"position": 8
+				}
+			],
+			"format": "html",
+			"dataFileName": "Motor Camping V2.html",
+			"dirFileName": "Motor Camping V2",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "nOahDyAH1Wgb",
+					"notePath": [
+						"2spP5Oh2UNOA",
+						"nOahDyAH1Wgb"
+					],
+					"title": "Sleeping",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Sleeping.html"
+				},
+				{
+					"isClone": false,
+					"noteId": "gL9zMD4mr8Yj",
+					"notePath": [
+						"2spP5Oh2UNOA",
+						"gL9zMD4mr8Yj"
+					],
+					"title": "Cooking",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Cooking.html"
+				},
+				{
+					"isClone": false,
+					"noteId": "POkbJbvAcdBg",
+					"notePath": [
+						"2spP5Oh2UNOA",
+						"POkbJbvAcdBg"
+					],
+					"title": "Clothing",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Clothing.html"
+				},
+				{
+					"isClone": false,
+					"noteId": "3ZGckkIoMLh6",
+					"notePath": [
+						"2spP5Oh2UNOA",
+						"3ZGckkIoMLh6"
+					],
+					"title": "Other",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Other.html"
+				},
+				{
+					"isClone": false,
+					"noteId": "T9vAGliHYtoR",
+					"notePath": [
+						"2spP5Oh2UNOA",
+						"T9vAGliHYtoR"
+					],
+					"title": "Tools (Tenere 700)",
+					"notePosition": 70,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Tools (Tenere 700).html"
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}
